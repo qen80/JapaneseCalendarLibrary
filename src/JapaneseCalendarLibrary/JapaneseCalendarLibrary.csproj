@@ -14,7 +14,7 @@
     <PackageTags>japanese;calendar;era;wareki;conversion;date</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <RepositoryUrl>https://github.com/[YOUR_USERNAME]/JapaneseCalendarLibrary</RepositoryUrl>
+    <RepositoryUrl>https://github.com/qen80/JapaneseCalendarLibrary</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
